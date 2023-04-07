@@ -1,4 +1,4 @@
-label,name,ipaddress,health,id,parentId
+label,name,health,ipaddress,id,parentId
 业务系统名称,省电子公文交换平台,100, ,1-1,
 业务子系统名称,电子公文交换,100, ,2-1,1-1
 一级服务目录,省直部门、16地市协同办公系统,100, ,3-1,2-1
