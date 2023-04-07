@@ -1,4 +1,4 @@
-label,name,ipaddress,id,parentid,health
+label,name,ipaddress,id,parentId,health
 系统名称,省电子证照系统,,1-1,,100
 业务子系统,业务应用,,2-1,1-1,100
 业务子系统,电子证照系统,,2-2,1-1,100
